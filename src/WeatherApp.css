@@ -1,0 +1,15 @@
+.weather-container {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+  background-color: #9acddf;
+}
+
+.weather-container h2 {
+  margin-bottom: 10px;
+}
+
+.weather-container p {
+  margin: 5px 0;
+}
